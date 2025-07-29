@@ -86,7 +86,7 @@ This includes:
 1. Launch Power BI Desktop
 2. Open `Visualisation.pbix`
 3. Interact with filters and visuals
-4. Explore role-based players and finalize your Earth XI team!
+4. Explore role-based players and finalize your team!
 
 ---
 
